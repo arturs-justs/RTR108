@@ -1,0 +1,60 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/arturs-justs/RTR108
+    4  ls
+    5  cd RTR108
+    6  nano git-upload
+    7  ls
+    8  nano git-upload
+    9  ls -l
+   10  chmod 744 git-upload
+   11  ls -l
+   12  nano readme.md
+   13  ls -l
+   14  rm readme.md
+   15  ls -l
+   16  nano README.md
+   17  ls -l
+   18  ./git-upload
+   19  ./git-upload 20200130_10_45
+   20  ls -l
+   21  nano README.md
+   22  ./git-upload 20200130_10_46
+   23  pwd
+   24  python\
+   25  python
+   26  ls -l
+   27  ipython
+   28  ls -l
+   29  nano python_tests.py
+   30  ls -l
+   31  python python_tests.py
+   32  ls -l
+   33  python python_tests.py
+   34  ls -l
+   35  nano python_tests.py
+   36  python python_tests.py
+   37  nano python_tests.py
+   38  python --version
+   39  python2 python_tests.py
+   40  nano python_tests.py
+   41  python python_tests.py
+   42  nano python_tests.py
+   43  ls -l
+   44  cat git-upload
+   45  cp python_tests.py python_tests_auto_exe.py
+   46  ls -l
+   47  nano python_tests_auto_exe.py
+   48  chmod 744 python_tests_auto_exe.py
+   49  ls -l
+   50  ./python_tests_auto_exe.py
+   51  ls -la /usr/bin/python
+   52  idle &
+   53  ls -l
+   54  cat diary_20200130.py
+   55  ./git-upload 20200130_11_44
+   56  python2 -m SimpleHTTPServer 8000
+   57  python -m SimpleHTTPServer 8001
+   58  python -m http.server 8001
+   59  history
+   60  history >> history_20200130.txt
