@@ -1,0 +1,80 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  mazzila
+    4  git clone https://github.com/arturs-justs/RTR108
+    5  ls
+    6  cd RTR108
+    7  ls
+    8  ls -l
+    9  python -m http.server 8000 &
+   10  ps
+   11  ps -aux
+   12  ls -aux | grep server
+   13  ps -aux | grep server
+   14  kill 2368
+   15  ps -aux | grep server
+   16  nano server_test.py
+   17  ls -l
+   18  ls -lt ../../Downloads
+   19  ls -lt ../Downloads
+   20  unzip ~/Downloads/ngrok-stable-linux-amd64.zip 
+   21  ls -lt ../Downloads
+   22  ls -l ../Downloads
+   23  ls
+   24  ls -lt
+   25  ./ngrok
+   26  ./ngrok http 8000
+   27  ps -aux | grep server
+   28  ls -l
+   29  nano server_test.py
+   30  ./server_test.py
+   31  server_test.py
+   32  ls -l
+   33  nano server_test.py
+   34  ch 744 server_test.py
+   35  chmod 744 server_test.py
+   36  ./server_test.py
+   37  nano server_test.py
+   38  ./server_test.py
+   39  nano server_test.py
+   40  ./server_test.py
+   41  nano server_test.py
+   42  ./server_test.py
+   43  nano server_test.py
+   44  ./server_test.py
+   45  nano server_test.py
+   46  ./server_test.py
+   47  nano server_test.py
+   48  ./server_test.py
+   49  nano server_test.py
+   50  ./server_test.py
+   51  nano server_test.py
+   52  ./server_test.py
+   53  nano server_test.py
+   54  ./server_test.py
+   55  ls -l
+   56  nano server_test.py
+   57  nano index.html
+   58  ./server_test.py
+   59  nano server_test.py
+   60  nano index.html
+   61  ./server_test.py
+   62  nano server_test.py
+   63  ./server_test.py
+   64  nano server_test.py
+   65  rm index.html
+   66  ls -l
+   67  ./server_test.py
+   68  nano server_test.py
+   69  ./server_test.py
+   70  nano server_test.py
+   71  ./server_test.py
+   72  nano server_test.py
+   73  ./server_test.py
+   74  nano server_test.py
+   75  ./server_test.py
+   76  nano server_test.py
+   77  ls -l
+   78  rm ngrok
+   79  ls -l
+   80  history > history20200206.txt
